@@ -36,7 +36,6 @@ IPHawk is a clean, powerful, terminal-based IP geolocation tool built for ethica
 
 ---
 
-<h2>📸 Screenshot</h2>
 <h2>📜 License</h2>
 
 This project is licensed under the MIT License - see the LICENSE file for details.
@@ -44,6 +43,15 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 This tool is for educational and authorized penetration testing purposes only.
 Any misuse of this tool is strictly discouraged. Please use it responsibly.
-<h2>👨‍💻 Author</h2> <table> <tr> <td><img src="https://avatars.githubusercontent.com/rootkrishna" width="100px"></td> <td> <strong>Krishna Dubey</strong><br> Ethical Hacker | AI Engineer | Cybersecurity Expert<br> 🔥 Founder of: <ul> <li>HEXAFORCE ALLIANCE</li> <li>VIOLENT CYBER FORCE</li> <li>CYBER GUARDIAN</li> <li>ANTI-CYBER CRIME TASKFORCE</li> </ul> <a href="https://github.com/rootkrishna">GitHub: @rootkrishna</a> </td> </tr> </table> <h2 align="center">⚡ Har Har Mahadev | Jai Hind 🇮🇳</h2> 
+<h2>👨‍💻 Author</h2> <table> <tr> <td><img src="https://avatars.githubusercontent.com/rootkrishna" width="100px"></td> <td> <strong>Krishna</strong><br> Ethical Hacker | AI Engineer | Cybersecurity Expert<br> 🔥 Founder of: <ul> <li>HEXAFORCE ALLIANCE</li> <li>VIOLENT CYBER FORCE</li> <li>CYBER GUARDIAN</li> <li>ANTI-CYBER CRIME TASKFORCE</li> </ul> <a href="https://github.com/rootkrishna">GitHub: @rootkrishna</a> </td> </tr> </table> <h2 align="center">⚡ Har Har Mahadev | Jai Hind 🇮🇳</h2> 
 
+
+---
+
+<h2>📦 Installation</h2>
+
+```bash
+git clone https://github.com/rootkrishna/IPHawk.git
+cd IPHawk
+pip install -r requirements.txt
 
